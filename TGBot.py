@@ -5,7 +5,7 @@ import datetime
 import requests
 
 # VARIABILI GLOBALI
-updater = Updater(token='1991659683:AAG6GnbLsi0qdrxgl00Nx8TyhMkNEPUeyqo', use_context=True)
+updater = Updater(token='', use_context=True)
 dispatcher = updater.dispatcher
 
 # LOGGING
